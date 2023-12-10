@@ -1,0 +1,1 @@
+var json_RS_PT_3 = {"type":"FeatureCollection","name":"RS_PT_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama_RS":"RS_MK"},"geometry":{"type":"Point","coordinates":[112.691294644588268,-7.266829337432562]}}]}

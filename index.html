@@ -53,12 +53,12 @@
 
             if (e.target.feature.geometry.type === 'LineString') {
               highlightLayer.setStyle({
-                color: '#ffff00',
+                color: '#ff0000',
               });
             } else {
               highlightLayer.setStyle({
                 fillColor: '#ffff00',
-                fillOpacity: 1
+                fillOpacity: 10
               });
             }
         }
@@ -402,7 +402,7 @@
             attribution: '',
             interactive: true,
             dataVar: 'json_Coba_SP_5',
-            layerName: 'layer_Coba_SP_5',
+            layerName: 'Jalan Akses',
             pane: 'pane_Coba_SP_5',
             onEachFeature: pop_Coba_SP_5,
             style: style_Coba_SP_5_0,
